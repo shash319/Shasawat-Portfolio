@@ -31,6 +31,7 @@ const siteProps = {
   linkedIn: "https://www.linkedin.com/in/shasawat-pal-9506781a9/",
   twitter: "https://x.com/p_shasawat_bro",
   instagram: "https://www.instagram.com/shasawat_ak47/",
+  youtube: "https://www.youtube.com/@ClicknCodeWithShasawat",
 };
 
 const primaryColor = "#4E567E";
