@@ -30,6 +30,7 @@ const siteProps = {
   gitHub: "https://github.com/shash319",
   linkedIn: "https://www.linkedin.com/in/shasawat-pal-9506781a9/",
   twitter: "https://x.com/p_shasawat_bro",
+  instagram: "https://www.instagram.com/shasawat_ak47/",
 };
 
 const primaryColor = "#4E567E";
