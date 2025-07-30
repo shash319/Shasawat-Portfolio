@@ -76,11 +76,7 @@ const Footer = (props) => {
           </a>
         )}
         {instagram && (
-          <a
-            href={`${instagram}`}
-            target="_blank"
-            rel="noopener noreferrer"
-          >
+          <a href={`${instagram}`} target="_blank" rel="noopener noreferrer">
             <img src={instagramIcon} alt="Instagram" className="socialIcon" />
           </a>
         )}
